@@ -28,11 +28,13 @@ It is recommended to use a virtual environment to keep dependencies organized.
 For Windows:
 
 python -m venv venv
+
 venv\Scripts\activate
 
 For Linux / macOS:
 
 python3 -m venv venv
+
 source venv/bin/activate
 
 You should see (venv) appear in your terminal prompt.
